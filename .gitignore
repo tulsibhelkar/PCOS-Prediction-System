@@ -1,13 +1,32 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*.pyo
+*.pyd
 
-*.pyc
-
+# Virtual Environment
 venv/
 .env
 
-models/*.pkl
+# Jupyter
+.ipynb_checkpoints/
 
+# VS Code
+.vscode/
+
+# Uploaded files
+uploads/*
+
+# Reports
+reports/*
+
+# Images (optional if generated)
+images/*.png
+images/*.jpg
+
+# Model cache
+*.log
+
+# OS files
 .DS_Store
-
 Thumbs.db
