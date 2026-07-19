@@ -174,13 +174,13 @@ The Streamlit application allows users to:
 
 ##  Patient Details
 
-![Patient Details](images/prediction_page.png)
+![Patient Details](images/prediction.png)
 
 ---
 
 ##  Prediction Result
 
-![Prediction Result](images/result_page.png)
+![Prediction Result](images/result.png)
 
 ---
 
