@@ -1,6 +1,6 @@
 #  Hybrid Machine Learning-Based PCOS Prediction System
 
-> An AI-powered healthcare application for the early prediction of Polycystic Ovary Syndrome (PCOS) using a Hybrid Machine Learning Model (Random Forest + XGBoost) with an interactive Streamlit web application.
+> An  healthcare application for the early prediction of Polycystic Ovary Syndrome (PCOS) using a Hybrid Machine Learning Model (Random Forest + XGBoost) with an interactive Streamlit web application.
 
 ---
 
