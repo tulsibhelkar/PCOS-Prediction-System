@@ -172,22 +172,21 @@ The Streamlit application allows users to:
 
 
 
-##  Patient Details
+## 📋 Patient Information
 
-![Patient Details](images/prediction.png)
-
----
-
-##  Prediction Result
-
-![Prediction Result](images/result.png)
+![Patient Information](images/patient.png)
 
 ---
 
-##  Model Performance
+## 📊 Prediction Result
+
+![Prediction Result](images/result_page.png)
+
+---
+
+## 📈 Confusion Matrix
 
 ![Confusion Matrix](images/confusion_matrix.png)
-
 ---
 
 ##  Project Structure
